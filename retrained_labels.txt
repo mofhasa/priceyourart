@@ -1,0 +1,5 @@
+5kto10k
+1kto5k
+0to500
+500to1k
+greater10k
