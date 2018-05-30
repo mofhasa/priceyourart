@@ -8,5 +8,5 @@
 For access to the dataset and records, email me at yadav11@purdue.edu
 
 ### Ongoing and future work
-- Factoring in additional metadata
+- Factoring in additional metadata for adjustment in predictions
 - Refining the learned model to include artistic features
